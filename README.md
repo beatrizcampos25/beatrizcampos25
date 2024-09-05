@@ -4,6 +4,14 @@
 - 🌱 Estou fazendo curso técnico em ADS no Senai
 - 📫 beatrizcalves4015@gmail.com
 
+##
+
+[![Beatriz](https://github-readme-stats.vercel.app/api?username=beatrizcampos25&height=100px)](https://github.com/anuraghazra/github-readme-stats)
+![Beatriz](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcampos25&layout=compact)
+
+##
+
+Linguegens que utilizo para realizar projetos:
 <div style="display: inline_block"><br>
   <img align="center" alt="Beatriz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Beatriz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
