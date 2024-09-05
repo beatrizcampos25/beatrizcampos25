@@ -4,7 +4,7 @@
 - 🌱 Estou fazendo curso técnico em ADS no Senai
 - 📫 beatrizcalves4015@gmail.com
 
-##
+<br>
 
 [![Beatriz](https://github-readme-stats.vercel.app/api?username=beatrizcampos25&height=100px)](https://github.com/anuraghazra/github-readme-stats)
 ![Beatriz](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcampos25&layout=compact)
