@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Beatriz Campos
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estou fazendo curso técnico em ADS no Senai
+- 🌱 Estou fazendo curso superior em ADS pelo IFSP- Boituva
 - 📫 beatrizcalves4015@gmail.com
 
 <br>
